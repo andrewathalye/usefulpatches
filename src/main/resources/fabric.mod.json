@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "usefulpatches",
+  "version": "${version}",
+
+  "name": "Useful Patches",
+  "description": "Contains extremely useful patches for PVP and PVE servers.",
+  "authors": [
+    "ZENITHSEEKER"
+  ],
+  "contact": {
+    "homepage": "https://www.github.com/andrewathalye/usefulpatches/",
+    "sources": "https://www.github.com/andrewathalye/usefulpatches/",
+  },
+
+  "license": "GPL v3",
+
+  "environment": "server",
+  "mixins": [
+    "usefulpatches.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "minecraft": "21w03a"
+  },
+}
