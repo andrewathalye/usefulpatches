@@ -10,10 +10,10 @@
   ],
   "contact": {
     "homepage": "https://www.github.com/andrewathalye/usefulpatches/",
-    "sources": "https://www.github.com/andrewathalye/usefulpatches/",
+    "sources": "https://www.github.com/andrewathalye/usefulpatches/"
   },
 
-  "license": "GPL v3",
+  "license": "GPLv3",
 
   "environment": "server",
   "mixins": [
@@ -22,6 +22,6 @@
 
   "depends": {
     "fabricloader": ">=0.7.4",
-    "minecraft": "21w03a"
-  },
+    "minecraft": "1.17-alpha.21.3.a"
+  }
 }
