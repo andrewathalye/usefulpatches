@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# Useful Patches for Fabric 1.17
 
-## Setup
+## Included Patches
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Disable Combat Logging Invulnerability (ServerPlayerEntityMixin)
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod is licensed under the GNU GPLv3. See LICENSE for more details.
